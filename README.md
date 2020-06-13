@@ -152,6 +152,8 @@ width="1000">
 
 5 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
 
+6 :- <a href="https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLyRxBafKYiWDHOiOsjz7pEqdEYwHIx-az">Mix(Ravindra, Knowledge Gate, David) [Full Course]</a>
+
 **Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
