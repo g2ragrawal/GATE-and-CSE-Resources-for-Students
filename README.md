@@ -142,17 +142,17 @@ width="1000">
 
 **Youtube Lectures**
 
-1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw" target="_blank">MIT OpenSource</a>
+1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenSource</a>
 
-2 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ" target="_blank">Gate Lectures By Ravindra Babu Ravula</a>
+2 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ">Gate Lectures By Ravindra Babu Ravula</a>
 
-3 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes" target="_blank">Easy Engineering Classes</a>
+3 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
 
-4 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ" target="_blank">Knowledge GATE</a>
+4 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
 
-5 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA" target="_blank">NPTEL</a>
+5 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>  <a href="https://www.youtube.com/watch?v=z3Nw5o9dS7Q&list=PLsylUObW5M3CAGT6OdubyH6FztKfJCcFB">IITD</a> <a href="https://www.youtube.com/watch?v=jciGIvn7UfM&list=PL3-wYxbt4yCjpcfUDz-TgD_ainZ2K3MUZ">IITM</a> <a href="https://www.youtube.com/watch?v=MaA0vFKt-ew&list=PLLDC70psjvq5hIT0kfr1sirNuees0NIbG">IITKGP</a>
 
-6 :- <a href="https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLyRxBafKYiWDHOiOsjz7pEqdEYwHIx-az" target="_blank">Mix(Ravindra, Knowledge Gate, David) [Full Course]</a>
+6 :- <a href="https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLyRxBafKYiWDHOiOsjz7pEqdEYwHIx-az">Mix(Ravindra, Knowledge Gate, David) [Full Course]</a>
 
 **Other Resources**
 
