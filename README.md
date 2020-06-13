@@ -55,26 +55,26 @@ Check Out The Resources and keep exploring
 ```
 
 **For GATE Syllabus 
-Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/tree/master/Gate_Syllabus">GATE Syllabus</a>** 
+Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/tree/master/Gate_Syllabus" target="_blank">GATE Syllabus</a>** 
 
 **For GATE Question Papers 
-Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/tree/master/Gate_QuestionPapers">GATE Question Papers</a>**
+Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/tree/master/Gate_QuestionPapers" target="_blank">GATE Question Papers</a>**
 
 **For Practice Questions with Solutions 
-Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/tree/master/Practice_Papers">GATE Practice Papers with Solutions</a>**
+Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/tree/master/Practice_Papers" target="_blank">GATE Practice Papers with Solutions</a>**
 
 **For question practice and test series .
-Click here <a href="https://practice.geeksforgeeks.org/courses/Sudo-GATE-2020?vC=1"> Free Test Series Sudo Gate</a>**
+Click here <a href="https://practice.geeksforgeeks.org/courses/Sudo-GATE-2020?vC=1" target="_blank"> Free Test Series Sudo Gate</a>**
 
 
 **For Hand Written Ravindra Babu Ravula Notes .
-Click here <a href="https://drive.google.com/open?id=1O57SsyEBgvTQwUjXoIfH1UqsabEF0DJl">RBR Hand Written Notes (All Subjects)</a>**
+Click here <a href="https://drive.google.com/open?id=1O57SsyEBgvTQwUjXoIfH1UqsabEF0DJl" target="_blank">RBR Hand Written Notes (All Subjects)</a>**
 
 **For Gate Academy Notes .
-Click here <a href="https://drive.google.com/open?id=1pJLUf-SmYzLY1pxDXdCzbCo7xKgvohr1">Gate Academy</a>**
+Click here <a href="https://drive.google.com/open?id=1pJLUf-SmYzLY1pxDXdCzbCo7xKgvohr1" target="_blank">Gate Academy</a>**
 
 **For PYQ Gate Questions .
-Click here <a href="https://pyq.ravindrababuravula.com/">PYQ RBR</a>**
+Click here <a href="https://pyq.ravindrababuravula.com/" target="_blank">PYQ RBR</a>**
 
 
 <img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/SIKB.gif"
@@ -118,23 +118,23 @@ width="1000">
 
 **Youtube Lectures**
 
-1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenSource</a>
+1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw" target="_blank">MIT OpenSource</a>
 
-2 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ">Gate Lectures By Ravindra Babu Ravula</a>
+2 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ" target="_blank">Gate Lectures By Ravindra Babu Ravula</a>
 
-3 :- <a href="https://www.youtube.com/channel/UCQA9tK0nRK1e_Bqg0uETs8A">Well Academy</a>
+3 :- <a href="https://www.youtube.com/channel/UCQA9tK0nRK1e_Bqg0uETs8A" target="_blank">Well Academy</a>
 
-4 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+4 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ" target="_blank">Knowledge GATE</a>
 
-5 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+5 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA" target="_blank">NPTEL</a>
 
-6 :- <a href="https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A">Neso Academy</a>
+6 :- <a href="https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A" target="_blank">Neso Academy</a>
 
 **Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
 
-2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering" target="_blank">Lecture Notes</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -142,23 +142,23 @@ width="1000">
 
 **Youtube Lectures**
 
-1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenSource</a>
+1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw" target="_blank">MIT OpenSource</a>
 
-2 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ">Gate Lectures By Ravindra Babu Ravula</a>
+2 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ" target="_blank">Gate Lectures By Ravindra Babu Ravula</a>
 
-3 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
+3 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes" target="_blank">Easy Engineering Classes</a>
 
-4 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+4 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ" target="_blank">Knowledge GATE</a>
 
-5 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+5 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA" target="_blank">NPTEL</a>
 
-6 :- <a href="https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLyRxBafKYiWDHOiOsjz7pEqdEYwHIx-az">Mix(Ravindra, Knowledge Gate, David) [Full Course]</a>
+6 :- <a href="https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLyRxBafKYiWDHOiOsjz7pEqdEYwHIx-az" target="_blank">Mix(Ravindra, Knowledge Gate, David) [Full Course]</a>
 
 **Other Resources**
 
-1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
+1:- <a href="https://www.geeksforgeeks.org/" target="_blank">Geeks for Geeks</a>
 
-2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering" target="_blank">Lecture Notes</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -166,19 +166,19 @@ width="1000">
 
 **Youtube Lectures**
 
-1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenSource</a>
+1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw" target="_blank">MIT OpenSource</a>
 
-2 :- <a href="https://www.youtube.com/channel/UCkGS_3D0HEzfflFnG0bD24A">Programming in C by Saurabh Shukla</a>
+2 :- <a href="https://www.youtube.com/channel/UCkGS_3D0HEzfflFnG0bD24A" target="_blank">Programming in C by Saurabh Shukla</a>
 
-3 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+3 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA" target="_blank">NPTEL</a>
 
 **Other Resources**
 
-1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
+1:- <a href="https://www.geeksforgeeks.org/" target="_blank">Geeks for Geeks</a>
 
-2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering" target="_blank">Lecture Notes</a>
 
-3:- <a href="https://tutorialspoint.com">Tutorial Point</a>
+3:- <a href="https://tutorialspoint.com" target="_blank">Tutorial Point</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -186,21 +186,21 @@ width="1000">
 
 **Youtube Lectures**
 
-1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenSource</a>
+1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw" target="_blank">MIT OpenSource</a>
 
-2 :- <a href="https://www.youtube.com/channel/UCu4ztYtW-Bg1KIfcLAULtVQ">Data Structure by Saurabh Shukla</a>
+2 :- <a href="https://www.youtube.com/channel/UCu4ztYtW-Bg1KIfcLAULtVQ" target="_blank">Data Structure by Saurabh Shukla</a>
 
-3 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+3 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA" target="_blank">NPTEL</a>
 
-4 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+4 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ" target="_blank">Knowledge GATE</a>
 
 **Other Resources**
 
-1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
+1:- <a href="https://www.geeksforgeeks.org/" target="_blank">Geeks for Geeks</a>
 
-2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering" target="_blank">Lecture Notes</a>
 
-3:- <a href="https://tutorialspoint.com">Tutorial Point</a>
+3:- <a href="https://tutorialspoint.com" target="_blank">Tutorial Point</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -208,19 +208,19 @@ width="1000">
 
 **Youtube Lectures**
 
-1 :- <a href="https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A">Neso Academy</a>
+1 :- <a href="https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A" target="_blank">Neso Academy</a>
 
-2 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+2 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA" target="_blank">NPTEL</a>
 
-3 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+3 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ" target="_blank">Knowledge GATE</a>
 
-4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
+4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes" target="_blank">Easy Engineering Classes</a>
 
 **Other Resources**
 
-1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
+1:- <a href="https://www.geeksforgeeks.org/" target="_blank">Geeks for Geeks</a>
 
-2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering" target="_blank">Lecture Notes</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -228,19 +228,19 @@ width="1000">
 
 **Youtube Lectures**
 
-1 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ">Gate Lectures By Ravindra Babu Ravula</a>
+1 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ" target="_blank">Gate Lectures By Ravindra Babu Ravula</a>
 
-2 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+2 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA" target="_blank">NPTEL</a>
 
-3 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+3 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ" target="_blank">Knowledge GATE</a>
 
-4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
+4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes" target="_blank">Easy Engineering Classes</a>
 
 **Other Resources**
 
-1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
+1:- <a href="https://www.geeksforgeeks.org/" target="_blank">Geeks for Geeks</a>
 
-2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering" target="_blank">Lecture Notes</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -248,19 +248,19 @@ width="1000">
 
 **Youtube Lectures**
 
-1 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ">Gate Lectures By Ravindra Babu Ravula</a>
+1 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ" target="_blank">Gate Lectures By Ravindra Babu Ravula</a>
 
-2 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+2 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA" target="_blank">NPTEL</a>
 
-3 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+3 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ" target="_blank">Knowledge GATE</a>
 
-4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
+4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes" target="_blank">Easy Engineering Classes</a>
 
 **Other Resources**
 
-1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
+1:- <a href="https://www.geeksforgeeks.org/" target="_blank">Geeks for Geeks</a>
 
-2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering" target="_blank">Lecture Notes</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -268,19 +268,19 @@ width="1000">
 
 **Youtube Lectures**
 
-1 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+1 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA" target="_blank">NPTEL</a>
 
-2 :- <a href="https://www.youtube.com/channel/UCYlBcA-4FnMkPoQJQSXENPg">Gate Book</a>
+2 :- <a href="https://www.youtube.com/channel/UCYlBcA-4FnMkPoQJQSXENPg" target="_blank">Gate Book</a>
 
-3 :- <a href="https://www.youtube.com/channel/UCQA9tK0nRK1e_Bqg0uETs8A">Well Academy</a>
+3 :- <a href="https://www.youtube.com/channel/UCQA9tK0nRK1e_Bqg0uETs8A" target="_blank">Well Academy</a>
 
-4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
+4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes" target="_blank">Easy Engineering Classes</a>
 
 **Other Resources**
 
-1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
+1:- <a href="https://www.geeksforgeeks.org/" target="_blank">Geeks for Geeks</a>
 
-2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering" target="_blank">Lecture Notes</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -288,21 +288,21 @@ width="1000">
 
 **Youtube Lectures**
 
-1 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+1 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA" target="_blank">NPTEL</a>
 
-2 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ">Gate Lectures By Ravindra Babu Ravula</a>
+2 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ" target="_blank">Gate Lectures By Ravindra Babu Ravula</a>
 
-3 :- <a href="https://www.youtube.com/channel/UCQA9tK0nRK1e_Bqg0uETs8A">Well Academy</a>
+3 :- <a href="https://www.youtube.com/channel/UCQA9tK0nRK1e_Bqg0uETs8A" target="_blank">Well Academy</a>
 
-4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
+4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes" target="_blank">Easy Engineering Classes</a>
 
-5 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+5 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ" target="_blank">Knowledge GATE</a>
 
 **Other Resources**
 
-1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
+1:- <a href="https://www.geeksforgeeks.org/" target="_blank">Geeks for Geeks</a>
 
-2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering" target="_blank">Lecture Notes</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -311,21 +311,21 @@ width="1000">
 
 **Youtube Lectures**
 
-1 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+1 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA" target="_blank">NPTEL</a>
 
-2 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ">Gate Lectures By Ravindra Babu Ravula</a>
+2 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ" target="_blank">Gate Lectures By Ravindra Babu Ravula</a>
 
-3 :- <a href="https://www.youtube.com/channel/UCQA9tK0nRK1e_Bqg0uETs8A">Well Academy</a>
+3 :- <a href="https://www.youtube.com/channel/UCQA9tK0nRK1e_Bqg0uETs8A" target="_blank">Well Academy</a>
 
-4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
+4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes" target="_blank">Easy Engineering Classes</a>
 
-5 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+5 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ" target="_blank">Knowledge GATE</a>
 
 **Other Resources**
 
-1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
+1:- <a href="https://www.geeksforgeeks.org/" target="_blank">Geeks for Geeks</a>
 
-2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering" target="_blank">Lecture Notes</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
